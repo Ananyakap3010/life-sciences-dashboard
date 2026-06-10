@@ -1,0 +1,101 @@
+Biomarker_ID,Biomarker_Name,Disease,Researcher_Name,Sample_Count,Expression_Level,Validation_Status,Priority,Country
+BM001,TP53,Breast Cancer,Dr. Chen,381,55,Validated,High,Canada
+BM002,TP53,Prostate Cancer,Dr. Chen,658,45,Under Review,Medium,India
+BM003,BRCA1,Breast Cancer,Dr. Lee,338,72,Under Review,High,Japan
+BM004,KRAS,Prostate Cancer,Dr. Chen,818,74,Pending,High,Germany
+BM005,BRAF,Colon Cancer,Dr. Brown,990,40,Validated,Low,Germany
+BM006,VEGF,Colon Cancer,Dr. Lee,320,88,Pending,High,India
+BM007,ALK,Breast Cancer,Dr. Kumar,967,62,Under Review,Medium,Australia
+BM008,BRCA1,Prostate Cancer,Dr. Patel,649,47,Pending,High,Japan
+BM009,HER2,Ovarian Cancer,Dr. Chen,733,96,Pending,Low,USA
+BM010,TP53,Breast Cancer,Dr. Chen,333,89,Pending,High,Australia
+BM011,KRAS,Ovarian Cancer,Dr. Smith,489,57,Pending,Low,Australia
+BM012,VEGF,Lung Cancer,Dr. Kumar,463,53,Under Review,Medium,Canada
+BM013,TP53,Melanoma,Dr. Chen,275,74,Under Review,High,USA
+BM014,PDL1,Leukemia,Dr. Kumar,755,84,Under Review,High,Canada
+BM015,VEGF,Ovarian Cancer,Dr. Brown,894,43,Validated,High,Australia
+BM016,VEGF,Leukemia,Dr. Kumar,167,53,Under Review,Low,UK
+BM017,KRAS,Prostate Cancer,Dr. Patel,505,96,Under Review,Medium,USA
+BM018,HER2,Lung Cancer,Dr. Lee,862,75,Under Review,Medium,Canada
+BM019,BRAF,Leukemia,Dr. Johnson,508,63,Validated,High,Japan
+BM020,PDL1,Breast Cancer,Dr. Brown,148,95,Validated,High,Canada
+BM021,EGFR,Ovarian Cancer,Dr. Chen,532,78,Validated,Medium,Germany
+BM022,BRAF,Leukemia,Dr. Johnson,357,75,Validated,Low,Canada
+BM023,TP53,Prostate Cancer,Dr. Johnson,868,57,Under Review,Medium,India
+BM024,HER2,Leukemia,Dr. Lee,564,40,Under Review,Low,UK
+BM025,MYC,Ovarian Cancer,Dr. Lee,619,98,Validated,Low,UK
+BM026,MYC,Melanoma,Dr. Lee,256,63,Validated,Low,Australia
+BM027,MYC,Breast Cancer,Dr. Johnson,431,71,Validated,High,UK
+BM028,HER2,Lung Cancer,Dr. Smith,346,96,Under Review,High,India
+BM029,PDL1,Ovarian Cancer,Dr. Smith,878,74,Validated,High,Canada
+BM030,PDL1,Melanoma,Dr. Lee,371,73,Under Review,Medium,USA
+BM031,MYC,Ovarian Cancer,Dr. Chen,806,52,Under Review,Medium,Germany
+BM032,VEGF,Leukemia,Dr. Johnson,562,47,Validated,High,India
+BM033,VEGF,Breast Cancer,Dr. Johnson,667,54,Under Review,High,India
+BM034,TP53,Prostate Cancer,Dr. Chen,160,54,Validated,High,Australia
+BM035,VEGF,Breast Cancer,Dr. Johnson,343,57,Under Review,Medium,USA
+BM036,MYC,Lung Cancer,Dr. Chen,684,76,Pending,High,Australia
+BM037,PDL1,Ovarian Cancer,Dr. Patel,294,46,Validated,Low,Germany
+BM038,VEGF,Leukemia,Dr. Patel,578,95,Under Review,High,Canada
+BM039,TP53,Breast Cancer,Dr. Patel,845,61,Validated,High,USA
+BM040,KRAS,Melanoma,Dr. Patel,243,67,Validated,Medium,Germany
+BM041,KRAS,Ovarian Cancer,Dr. Smith,553,91,Under Review,High,India
+BM042,MYC,Ovarian Cancer,Dr. Smith,195,99,Validated,High,Germany
+BM043,PDL1,Leukemia,Dr. Lee,985,65,Validated,High,Germany
+BM044,BRCA1,Leukemia,Dr. Kumar,902,90,Pending,Medium,Germany
+BM045,MYC,Prostate Cancer,Dr. Chen,598,49,Validated,Medium,USA
+BM046,BRCA1,Melanoma,Dr. Chen,655,43,Under Review,Medium,India
+BM047,BRCA1,Melanoma,Dr. Patel,614,98,Under Review,High,India
+BM048,MYC,Breast Cancer,Dr. Brown,290,44,Under Review,High,Canada
+BM049,KRAS,Leukemia,Dr. Smith,683,55,Under Review,Low,India
+BM050,BRAF,Breast Cancer,Dr. Patel,773,77,Under Review,Low,UK
+BM051,HER2,Lung Cancer,Dr. Chen,833,60,Validated,Medium,Germany
+BM052,EGFR,Prostate Cancer,Dr. Chen,407,69,Pending,High,India
+BM053,PDL1,Melanoma,Dr. Johnson,202,44,Under Review,High,Japan
+BM054,HER2,Lung Cancer,Dr. Kumar,170,96,Validated,Medium,UK
+BM055,EGFR,Leukemia,Dr. Brown,656,85,Pending,Low,Australia
+BM056,MYC,Breast Cancer,Dr. Chen,936,75,Pending,Low,India
+BM057,EGFR,Colon Cancer,Dr. Smith,209,87,Under Review,High,UK
+BM058,HER2,Melanoma,Dr. Lee,834,61,Validated,Low,Canada
+BM059,HER2,Melanoma,Dr. Patel,357,97,Validated,High,Canada
+BM060,ALK,Ovarian Cancer,Dr. Kumar,145,40,Pending,High,Canada
+BM061,HER2,Lung Cancer,Dr. Chen,552,75,Under Review,Medium,Japan
+BM062,BRCA1,Breast Cancer,Dr. Smith,807,97,Validated,Low,India
+BM063,VEGF,Melanoma,Dr. Johnson,251,67,Validated,High,UK
+BM064,VEGF,Ovarian Cancer,Dr. Brown,140,97,Pending,High,Canada
+BM065,KRAS,Prostate Cancer,Dr. Smith,462,89,Under Review,Medium,Japan
+BM066,EGFR,Lung Cancer,Dr. Brown,266,91,Validated,Medium,India
+BM067,EGFR,Prostate Cancer,Dr. Kumar,901,99,Pending,Low,Australia
+BM068,KRAS,Colon Cancer,Dr. Lee,906,84,Validated,Medium,Australia
+BM069,BRCA1,Ovarian Cancer,Dr. Patel,327,52,Pending,Medium,UK
+BM070,KRAS,Lung Cancer,Dr. Smith,775,52,Pending,Medium,UK
+BM071,TP53,Ovarian Cancer,Dr. Kumar,459,81,Under Review,Medium,Canada
+BM072,MYC,Colon Cancer,Dr. Smith,218,96,Pending,High,Japan
+BM073,HER2,Breast Cancer,Dr. Smith,710,67,Pending,Low,Australia
+BM074,VEGF,Leukemia,Dr. Johnson,623,47,Pending,Low,USA
+BM075,HER2,Breast Cancer,Dr. Chen,546,40,Under Review,Low,Canada
+BM076,KRAS,Colon Cancer,Dr. Patel,171,100,Under Review,Medium,Japan
+BM077,VEGF,Prostate Cancer,Dr. Brown,227,86,Pending,Low,UK
+BM078,ALK,Colon Cancer,Dr. Patel,813,58,Under Review,High,USA
+BM079,ALK,Prostate Cancer,Dr. Patel,793,87,Validated,Low,Japan
+BM080,HER2,Leukemia,Dr. Johnson,953,40,Pending,Medium,USA
+BM081,ALK,Ovarian Cancer,Dr. Johnson,721,81,Pending,Medium,Germany
+BM082,PDL1,Prostate Cancer,Dr. Lee,623,70,Under Review,High,Canada
+BM083,TP53,Colon Cancer,Dr. Johnson,779,80,Under Review,Medium,India
+BM084,KRAS,Prostate Cancer,Dr. Kumar,330,91,Validated,High,India
+BM085,BRCA1,Lung Cancer,Dr. Patel,725,94,Validated,Medium,Germany
+BM086,BRAF,Lung Cancer,Dr. Chen,813,64,Pending,Medium,USA
+BM087,EGFR,Prostate Cancer,Dr. Chen,105,97,Validated,Medium,USA
+BM088,EGFR,Ovarian Cancer,Dr. Chen,630,69,Validated,Low,USA
+BM089,TP53,Leukemia,Dr. Lee,920,69,Under Review,Low,Japan
+BM090,BRAF,Colon Cancer,Dr. Brown,553,79,Under Review,Low,Germany
+BM091,MYC,Leukemia,Dr. Lee,861,95,Pending,Medium,UK
+BM092,KRAS,Ovarian Cancer,Dr. Chen,383,89,Under Review,Medium,Canada
+BM093,KRAS,Colon Cancer,Dr. Patel,179,85,Pending,High,UK
+BM094,VEGF,Colon Cancer,Dr. Johnson,182,48,Validated,High,Germany
+BM095,EGFR,Prostate Cancer,Dr. Lee,165,66,Pending,Medium,Japan
+BM096,PDL1,Leukemia,Dr. Smith,311,93,Pending,Medium,Australia
+BM097,BRAF,Prostate Cancer,Dr. Smith,977,96,Under Review,Medium,Germany
+BM098,BRCA1,Colon Cancer,Dr. Kumar,871,64,Pending,Low,Canada
+BM099,MYC,Ovarian Cancer,Dr. Johnson,325,71,Validated,Medium,Germany
+BM100,PDL1,Breast Cancer,Dr. Patel,444,82,Under Review,Medium,Canada
